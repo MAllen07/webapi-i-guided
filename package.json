@@ -4,7 +4,8 @@
   "description": "Hubs guided project for Web API I module.",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
+    "server": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
